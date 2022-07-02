@@ -1,0 +1,8 @@
+To run and compile java code on command line
+	to run a single file:	
+		1. javac (program name).java
+		2. java (program name)
+	to run multiple files:
+		1. javac (program name 1).java (program name 2).java etc. (main driver).java
+		2. java (main driver)
+	
