@@ -21,3 +21,7 @@
 Scanner scanner = new Scanner(System.in);<br/>
 String user_input = scanner.nextLine();
 <p></pre>
+
+<h2>Type Conversion</h2>
+<p>Convert String to Int</p>
+<pre><p>int user_input = Integer.valueOf(scanner.nextLine());</p></pre>
