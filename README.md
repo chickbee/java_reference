@@ -27,3 +27,5 @@ String user_input = scanner.nextLine();
 <pre><p>int user_input = Integer.valueOf(scanner.nextLine());</p></pre>
 <p>Convert String to Double</p>
 <pre><p>double user_input = Double.valueOf(scanner.nextLine());</p></pre>
+<p>Convert String to Boolean</p>
+<pre><p>boolean user_input = Boolean.valueOf(scanner.nextLine());</p></pre>
