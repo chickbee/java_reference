@@ -1,5 +1,5 @@
 <h1>To compile and run Java code in Terminal</h1>
-<ol>
+<ul>
 	<li>To run single files</li>
 	<ol>
 		<li>javac (program_name).java</li>
@@ -10,4 +10,4 @@
 		<li>javac (program_name_1).java (etc.).java (main_driver).java</li>
 		<li>java (main_driver)</li>
 	</ol>
-</ol>
+</ul>
