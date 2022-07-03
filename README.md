@@ -16,8 +16,8 @@
 <h2>Print to console</h2>
 <pre><code>System.out.println("insert print text");</code></pre>
 
- <h2>User Input</h2>
+<h2>User Input</h2>
 <pre><code>import java.util.Scanner;<br/>
 Scanner scanner = new Scanner(System.in);<br/>
-String user_input = scanner.nextLine();<br/>
+String user_input = scanner.nextLine();
 </code></pre>
