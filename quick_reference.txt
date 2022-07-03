@@ -4,5 +4,4 @@ To run and compile java code on command line
 		2. java (program name)
 	to run multiple files:
 		1. javac (program name 1).java (program name 2).java etc. (main driver).java
-		2. java (main driver)
-	
+		2. java (main driver)	
