@@ -25,3 +25,5 @@ String user_input = scanner.nextLine();
 <h2>Type Conversion</h2>
 <p>Convert String to Int</p>
 <pre><p>int user_input = Integer.valueOf(scanner.nextLine());</p></pre>
+<p>Convert String to Double</p>
+<pre><p>double user_input = Double.valueOf(scanner.nextLine());</p></pre>
