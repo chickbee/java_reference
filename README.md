@@ -17,10 +17,7 @@
 <pre><code>System.out.println("insert print text");</code></pre>
 
 <h2>User Input</h2>
-<pre><code>import java.util.Scanner;
-
-
+<pre><code>import java.util.Scanner;<br/>
 Scanner scanner = new Scanner(System.in);
-
 String user_input = scanner.nextLine();
 </code></pre>
