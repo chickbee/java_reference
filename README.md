@@ -1,4 +1,5 @@
-<h1>To compile and run Java code in Terminal</h1>
+<h1>Quick Java Syntax Reference</h1>
+<h2>To compile and run Java code in Terminal</h2>
 <ol>
 	<li>To run single files</li>
 	<ol type="1">
@@ -11,3 +12,6 @@
 		<li>java (main_driver)</li>
 	</ol>
 </ol>
+
+<h2>Java print to console</h2>
+<pre><code>System.out.Println("insert print text");</code></pre>
