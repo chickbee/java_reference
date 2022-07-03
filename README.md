@@ -29,3 +29,8 @@ String user_input = scanner.nextLine();
 <pre><p>double user_input = Double.valueOf(scanner.nextLine());</p></pre>
 <p>Convert String to Boolean</p>
 <pre><p>boolean user_input = Boolean.valueOf(scanner.nextLine());</p></pre>
+
+
+<h2>Type Casting</h2>
+<p>change type of int to double</p>
+<pre><p>double result = (double) 5 / 2;</p></pre>
