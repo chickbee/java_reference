@@ -19,6 +19,7 @@
 <h2>User Input</h2>
 <pre><code>import java.util.Scanner;
 
+
 Scanner scanner = new Scanner(System.in);
 
 String user_input = scanner.nextLine();
