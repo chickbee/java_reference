@@ -30,7 +30,12 @@ String user_input = scanner.nextLine();
 <p>Convert String to Boolean</p>
 <pre><p>boolean user_input = Boolean.valueOf(scanner.nextLine());</p></pre>
 
-
 <h2>Type Casting</h2>
 <p>change type of int to double</p>
 <pre><p>double result = (double) 5 / 2;</p></pre>
+
+
+<h2>comparison operator</h2>
+<p>compare if a string equals another string</p>
+<pre><p>String input = "test string";</p>
+<p>if(input.equals("is it equal"))</p></pre>
