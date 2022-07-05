@@ -39,3 +39,9 @@ String user_input = scanner.nextLine();
 <p>compare if a string equals another string</p>
 <pre><p>String input = "test string";</p>
 <p>if(input.equals("is it equal"))</p></pre>
+
+<h2>Loops</h2>
+<p>break keyword will exit loop</p>
+<pre><p>break;</p>
+<p>continue keyword will start loop from beginning</p>
+<pre><p>continue;</p>
