@@ -42,6 +42,6 @@ String user_input = scanner.nextLine();
 
 <h2>Loops</h2>
 <p>break keyword will exit loop</p>
-<pre><p>break;</p>
+<pre><p>break;</p></pre>
 <p>continue keyword will start loop from beginning</p>
-<pre><p>continue;</p>
+<pre><p>continue;</p></pre>
