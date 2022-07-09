@@ -47,6 +47,13 @@ String user_input = scanner.nextLine();
 <pre><p>continue;</p></pre>
 
 <h2>Lists</h2>
-<p>List Implementation</p>
+<p><b>List Implementation</b></p>
 <pre><p>java.util.ArrayList;<br/>
 ArrayList<String> list = new ArrayList<>();</p></pre>
+<p>Add item to list</p>
+<pre><p>import java.util.ArrayList;</p>
+<p>ArrayList<String> wordList = new ArrayList<>();</p>
+<p>worList.add("first");</p></pre>
+<p>get item from list</p>
+<pre><p>// using example above</p>
+<p>System.out.println(wordList.get(0));</p></pre>
