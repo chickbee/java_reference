@@ -48,5 +48,5 @@ String user_input = scanner.nextLine();
 
 <h2>Lists</h2>
 <p>List Implementation</p>
-</pre><p>java.util.ArrayList;<p>
-<p>ArrayList<String> list = new ArrayList<>();</p></pre>
+</pre><p>java.util.ArrayList;<br/>
+ArrayList<String> list = new ArrayList<>();</p></pre>
