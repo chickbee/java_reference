@@ -45,3 +45,8 @@ String user_input = scanner.nextLine();
 <pre><p>break;</p></pre>
 <p>continue keyword will start loop from beginning</p>
 <pre><p>continue;</p></pre>
+
+<h2>Lists</h2>
+<p>List Implementation</p>
+</pre><code>java.util.ArrayList;
+ArrayList<String> list = new ArrayList<>();</code></pre>
