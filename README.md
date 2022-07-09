@@ -45,6 +45,8 @@ String user_input = scanner.nextLine();
 <pre><p>break;</p></pre>
 <p>continue keyword will start loop from beginning</p>
 <pre><p>continue;</p></pre>
+<p>for each loop implementation</p>
+<pre><p>for(dataType item : array) {}</p></pre>
 
 <h2>Lists</h2>
 <p><b>List Implementation</b></p>
