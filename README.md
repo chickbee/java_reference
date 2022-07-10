@@ -59,3 +59,5 @@ ArrayList<String> list = new ArrayList<>();</p></pre>
 <p>get item from list</p>
 <pre><p>// using example above</p>
 <p>System.out.println(wordList.get(0));</p></pre>
+<p>list size method</p>
+</pre><p>list.size();</p></pre>
