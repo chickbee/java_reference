@@ -67,3 +67,5 @@ ArrayList<String> list = new ArrayList<>();</p></pre>
 list.remove("remove same string value");<br/>
 // can also remove int values using valueOf
 list.remove(Integer.valueOf(15));</p></pre>
+<p>list contains method</p>
+<pre><p>list.contains();</p></pre>
