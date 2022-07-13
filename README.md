@@ -61,3 +61,5 @@ ArrayList<String> list = new ArrayList<>();</p></pre>
 <p>System.out.println(wordList.get(0));</p></pre>
 <p>list size method</p>
 <pre><p>list.size();</p></pre>
+<p>list remove method</p>
+<pre><p>list.remove();</p></pre>
