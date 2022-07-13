@@ -62,4 +62,8 @@ ArrayList<String> list = new ArrayList<>();</p></pre>
 <p>list size method</p>
 <pre><p>list.size();</p></pre>
 <p>list remove method</p>
-<pre><p>list.remove();</p></pre>
+<pre><p>list.remove();<br/>
+// can also remove specific values
+list.remove("remove same string value");<br/>
+// can also remove int values using valueOf
+list.remove(Integer.valueOf(15));</p></pre>
