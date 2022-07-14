@@ -49,7 +49,7 @@ String user_input = scanner.nextLine();
 <pre><p>for(dataType item : array) {}</p></pre>
 
 <h2>Lists</h2>
-<p><b>List Implementation</b></p>
+<p>List Implementation</p>
 <pre><p>java.util.ArrayList;<br/>
 ArrayList<String> list = new ArrayList<>();</p></pre>
 <p>Add item to list</p>
@@ -69,3 +69,7 @@ list.remove("remove same string value");<br/>
 list.remove(Integer.valueOf(15));</p></pre>
 <p>list contains method</p>
 <pre><p>list.contains();</p></pre>
+
+<h2>Arrays</h2>
+<p>create array</p>
+<pre><p>int[] intArrayOf5Elements = new Int[5];</p></pre>
