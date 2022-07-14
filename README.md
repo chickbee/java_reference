@@ -73,3 +73,5 @@ list.remove(Integer.valueOf(15));</p></pre>
 <h2>Arrays</h2>
 <p>create array</p>
 <pre><p>int[] intArrayOf5Elements = new int[5];</p></pre>
+<p>length of array</p>
+<pre><p>intArrayOf5Elements.length;</p></pre>
