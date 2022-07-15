@@ -78,3 +78,7 @@ list.remove(Integer.valueOf(15));</p></pre>
 <p>length of array</p>
 <pre><p>intArrayOf5Elements.length;</p></pre>
 
+<h2>Strings</h2>
+<p>split a string</p>
+<pre><p>String myString = "text1 text2 text3";<br/>
+String[] splitString = myString.split(" ");</p></pre>
