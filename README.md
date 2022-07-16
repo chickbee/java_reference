@@ -82,3 +82,6 @@ list.remove(Integer.valueOf(15));</p></pre>
 <p>split a string</p>
 <pre><p>String myString = "text1 text2 text3";<br/>
 String[] splitString = myString.split(" ");</p></pre>
+<p>specific char in a string</p>
+<pre><p>String text = "Hello World";<br/>
+char character = text.charAt(0);</p></pre>
