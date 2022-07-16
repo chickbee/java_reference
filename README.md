@@ -85,3 +85,5 @@ String[] splitString = myString.split(" ");</p></pre>
 <p>specific char in a string</p>
 <pre><p>String text = "Hello World";<br/>
 char character = text.charAt(0);</p></pre>
+<p>Special note when using the length function for a string it requires length() compared to arrays</p>
+<pre><p>example.length()</p></pre>
