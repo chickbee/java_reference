@@ -87,3 +87,19 @@ String[] splitString = myString.split(" ");</p></pre>
 char character = text.charAt(0);</p></pre>
 <p>Special note when using the length function for a string it requires length() compared to arrays</p>
 <pre><p>example.length()</p></pre>
+
+<h2>Classes</h2>
+<p>Class template</p>
+<pre><p>public class ClassName<br/>
+{
+<p>    // instance variables
+    private String name;
+    private int age;
+</p>    
+<p>    // constructor can also not specify anything for nothing
+    public ClassName(String personName, int personAge)
+    {
+        this.name = personName;
+        this.age = personAge;
+    }
+}</p></pre>
