@@ -104,7 +104,7 @@ char character = text.charAt(0);</p></pre>
     }
 }</p></pre>
 
-<h2Files and reading data</h2>
+<h2>Files and reading data</h2>
 <p>reading from a file template</p>
 <pre><p>import java.nio.file.Paths;</p>
 <p>try(Scanner scanner = new Scanner(Paths.get("file.txt")));
